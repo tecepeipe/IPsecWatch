@@ -2,7 +2,6 @@
 
 Aplicativo Windows leve para visualizar Security Associations IPsec ativas e gerar tráfego periódico para manter túneis sob demanda conectados.
 
-## Executar
 Autor: Gustkiller
 
 ## Executar
