@@ -3,6 +3,9 @@
 Aplicativo Windows leve para visualizar Security Associations IPsec ativas e gerar tráfego periódico para manter túneis sob demanda conectados.
 
 ## Executar
+Autor: Gustkiller
+
+## Executar
 
 O executável pronto fica em `dist\IpsecWatch.exe`. Ele solicita elevação de administrador porque a leitura das SAs IPsec pode exigir esse nível de acesso.
 
